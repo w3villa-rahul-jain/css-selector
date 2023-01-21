@@ -16,7 +16,7 @@
 
 /* simple selector */
 
-h1{
+/* h1{
     color: blue;
 }
 
@@ -27,6 +27,13 @@ h1{
 #headingOne{
     color: orangered;
 }
+
+
+
+#headingOne.heading{
+    color: red;
+} */
+
 
 
 /* simple selector */
