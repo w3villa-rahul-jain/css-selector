@@ -6,13 +6,29 @@
 
 /* universal selector */
 
-*{
+/* *{
     color: red;
     font-size: 30px;
     font-weight: 700;
-}
+} */
 
 /*  // universal selector */
 
+/* simple selector */
+
+h1{
+    color: blue;
+}
+
+.heading{
+    color: brown;
+}
+
+#headingOne{
+    color: orangered;
+}
+
+
+/* simple selector */
 
 
