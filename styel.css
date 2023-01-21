@@ -4,3 +4,15 @@
     box-sizing: border-box;
 }
 
+/* universal selector */
+
+*{
+    color: red;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/*  // universal selector */
+
+
+
